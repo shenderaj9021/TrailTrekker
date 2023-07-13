@@ -7,7 +7,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "aayush",
+  "author": "Raj Shende",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
